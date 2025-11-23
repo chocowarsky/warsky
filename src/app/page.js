@@ -168,7 +168,7 @@ export default function Home() {
                     {/* HERO IMAGE */}
                     <div className="relative w-full h-[300px] lg:h-[500px] mb-20 rounded-xl overflow-hidden group">
                       <Image
-                        src="/projects/hero.jpg"
+                        src="/projects/starfield-ss-1.png"
                         alt="Starfield Hero"
                         fill
                         className="object-cover group-hover:scale-105 transition-transform duration-700"
@@ -203,7 +203,7 @@ export default function Home() {
                     {/* FEATURE IMAGE */}
                     <div className="relative w-full h-[400px] lg:h-[600px] rounded-xl overflow-hidden border border-gray-800">
                        <Image
-                        src="/projects/feature.jpg"
+                        src="/projects/starfield-ss-2.png"
                         alt="Starfield Feature"
                         fill
                         className="object-cover"
@@ -238,7 +238,7 @@ export default function Home() {
                   <h3 className="text-2xl font-serif mt-1 text-white">GRED Robotics Team</h3>
                   <p className="text-sm text-gray-500 font-mono mt-1">Line Follower Division</p>
                   <p className="text-gray-400 mt-4 leading-relaxed">
-                    Memilih divisi Line Follower berdasarkan analisis data kompetisi untuk memaksimalkan peluang prestasi (High ROI Strategy). Menguasai logika navigasi robot Ichibot Ultimate 5 Max (PID Algorithm & Calibration).
+                    Memilih divisi Line Follower berdasarkan analisis data kompetisi untuk memaksimalkan peluang prestasi (High ROI Strategy). Menguasai logika navigasi robot Ichibot Ultimate 5 Max (PID Algorithm & Calibration). Juara 1 Maze Solving ELCOM (Electrical Competition) 2025.
                   </p>
                 </div>
 
