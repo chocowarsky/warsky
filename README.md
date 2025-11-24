@@ -1,36 +1,34 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Bagus Wijaya - Personal Portfolio
 
-## Getting Started
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
-First, run the development server:
+A modern, minimalist portfolio website designed to showcase my journey as a **Future AI & Business Strategist** and **Software Engineering Student**.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Built with a focus on performance, smooth interactions, and a clean "High-Agency" aesthetic.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🚀 Tech Stack
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+- **Framework:** [Next.js 15 (App Router)](https://nextjs.org/) - For server-side rendering and optimal performance.
+- **Styling:** [Tailwind CSS](https://tailwindcss.com/) - For rapid, utility-first custom styling.
+- **Animations:** [Framer Motion](https://www.framer.com/motion/) - For complex page transitions and fluid UI interactions.
+- **Icons:** [Lucide React](https://lucide.dev/) - Lightweight and consistent iconography.
+- **Deployment:** [Vercel](https://vercel.com/) - Zero-config deployment.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## ✨ Key Features
 
-## Learn More
+- **Fluid Page Transitions:** Single-page application (SPA) feel with smooth enter/exit animations between sections.
+- **Minimalist UI:** Monochromatic design system focusing on typography and content hierarchy.
+- **Dynamic Project Details:** Interactive project cards that expand into immersive case study layouts without full page reloads.
+- **Responsive Layout:** Fully adaptive design for mobile and desktop, utilizing hidden scrollbars for a cleaner look.
+- **Performance First:** Optimized images (`next/image`) and strict linting.
 
-To learn more about Next.js, take a look at the following resources:
+## 🛠️ Getting Started Locally
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+If you want to run this project locally:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+1. **Clone the repository**
+   ```bash
+   git clone [https://github.com/chocowarsky/warsky.git](https://github.com/chocowarsky/warsky.git)
+   cd warsky
